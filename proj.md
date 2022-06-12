@@ -4,7 +4,5 @@ some info
 
 before TOC
 
-* TOC
-{:toc}
-
+[home](index.md)
 after TOC

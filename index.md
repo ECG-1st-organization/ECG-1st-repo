@@ -1,7 +1,5 @@
 ## Welcome to GitHub Pages -blablabla -added proj
 before TOC
-
-* TOC
-{:toc}
+[proj](proj.md)
 
 after TOC
