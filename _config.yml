@@ -4,8 +4,8 @@ theme: jekyll-theme-minimal
 markdown: kramdown
 description: > # this means to ignore newlines until "baseurl:"
   <div class='menu-group'>
-    <div class='main-menu-item'><a href="/README.md">Main</a></div>
-    <div class='menu-item'><a href="/aaa.txt">aaa</a></div>
+    <div class='main-menu-item'><a href="index.md">Main</a></div>
+    <div class='menu-item'><a href="proj.md">aaa</a></div>
     <div class='menu-item'><a href="/FEDOT.Docs/autolearning/composite">Composite models</a></div>
   </div>
   <div class='menu-group'>
