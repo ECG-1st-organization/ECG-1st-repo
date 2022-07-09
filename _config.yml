@@ -4,12 +4,12 @@ theme: jekyll-theme-minimal
 markdown: kramdown
 # description: > # this means to ignore newlines until "baseurl:"
 #   <div class='menu-group'>
-#     <div class='main-menu-item'><a href="/index.html">Main</a></div>
-#     <div class='menu-item'><a href="/proj.html">aaa</a></div>
+#     <div class='main-menu-item'><a href="/index">Main1</a></div>
+#     <div class='menu-item'><a href="/proj">aaa</a></div>
 #   </div>
 #   <div class='menu-group'>
-#     <div class='main-menu-item'><a href="index.md">item1</a></div>
-#     <div class='menu-item'><a href="proj.md">item2</a></div>
+#     <div class='main-menu-item'><a href="index">item1</a></div>
+#     <div class='menu-item'><a href="proj">item2</a></div>
 #   </div>
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
