@@ -1,6 +1,6 @@
 title: "ECG Recognition Library"
 date: 2022-06-20
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 markdown: kramdown
 description: > # this means to ignore newlines until "baseurl:"
   <div class='menu-group'>
